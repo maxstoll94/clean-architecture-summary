@@ -25,4 +25,24 @@ A software system provides two values to stakeholders. Developers often focus on
 
 The dilemna of software developers is that business managers cannot evaluate the importantance of architecture. It is the responsibility of the software team to assert the importantance of architectue over the urgency of features. As a developer you have a stake in the software and that is part of your role and what you were hired for. If the architecture comes last, the system will become more costly to develop over time. If this happens the software team did not fight hard enough.
 
+# Chapter 3: Programming Paradignms
+
+Each paradigm removes capabilities from the programmer. A paradigm tells us `what not to do` rather than `what to do`. All remove the `goto` statement.
+
+- <b>Structured Programming:</b> Allows modules to be recursively decomposed into provable units, which in turn means that modules can be functionaly decomposed. Types of Proofs:
+  -  Mathematical: Was never built as it is too laborous to prove every function correct 
+  -  Scientific: Do not prove statements true, but rather prove statements false.
+  -  Tests: Testing shows the presence, not the absence, of bugs
+
+  Software is like a science. We show correctness by failing to prove incorrectness, despite our best efforts.
+
+- <b>Object-Oriented Programming:</b> OO is the ability , through the use of polymorphism, to gain control over every source code depndency in the system. It allows an architect to create a plugin architecture  where high level policies are independent of low level details.
+
+- <b>Functional Programming:</b> Immutability removes deadlocks and concurrent update issues. With enough processing power, applications can be entirely immutable and therefore `functional`.
+  - Segregation of Immutabity: Segregate mutable from immutable components and try to push as much processing into the immutable components. 
+  - Event sourcing is when we store transactions, but not the state. When state is required, all transactions are replayed. It required lots of memory to store all transactions and nothing gets deleted (CR) only.
+
+
+
+
 
