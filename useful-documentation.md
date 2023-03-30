@@ -1,6 +1,6 @@
 
-# Useful documentation for .NET
+## Useful documentation for .NET
 
-## Learn ASPNET Core: https://roadmap.sh/aspnet-core
+### - Learn ASPNET Core: https://roadmap.sh/aspnet-core
 
-## Learn Rider: https://github.com/maartenba/rider-content
+### - Learn Rider https://github.com/maartenba/rider-content
