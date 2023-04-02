@@ -7,4 +7,4 @@
 
 ### - Dev Tunnels: https://www.youtube.com/watch?v=B9K9eseNcKE
 
-### Implementing The Saga Pattern With Rebus And RabbitMQ
+### Implementing The Saga Pattern: https://www.milanjovanovic.tech/blog/implementing-the-saga-pattern-with-rebus-and-rabbitmq
