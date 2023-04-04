@@ -10,3 +10,5 @@
 ### - Implementing The Saga Pattern: https://www.milanjovanovic.tech/blog/implementing-the-saga-pattern-with-rebus-and-rabbitmq
 
 ### - Getting started with AWS: https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
+
+### - Modular Monolith Example: https://github.com/kgrzybek/modular-monolith-with-ddd
