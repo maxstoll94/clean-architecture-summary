@@ -14,3 +14,5 @@
 ### - Modular Monolith Example: https://github.com/kgrzybek/modular-monolith-with-ddd
 
 ### - Deploy a .NET Web Application on Amazon ECS powered by Graviton2: https://aws.amazon.com/getting-started/hands-on/deploy-dotnet-web-app-ecs-graviton/?ref=gsrchandson
+
+### - Using MassTransit with RabbitMQ in ASP.NET Core: https://code-maze.com/masstransit-rabbitmq-aspnetcore/
