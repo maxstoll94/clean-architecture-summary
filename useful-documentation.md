@@ -16,3 +16,5 @@
 ### - Deploy a .NET Web Application on Amazon ECS powered by Graviton2: https://aws.amazon.com/getting-started/hands-on/deploy-dotnet-web-app-ecs-graviton/?ref=gsrchandson
 
 ### - Using MassTransit with RabbitMQ in ASP.NET Core: https://code-maze.com/masstransit-rabbitmq-aspnetcore/
+
+### - Throw library: https://www.youtube.com/watch?v=l9b8ghprj9I
