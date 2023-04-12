@@ -18,3 +18,5 @@
 ### - Using MassTransit with RabbitMQ in ASP.NET Core: https://code-maze.com/masstransit-rabbitmq-aspnetcore/
 
 ### - Throw library: https://www.youtube.com/watch?v=l9b8ghprj9I
+
+### - Summary of DDD resources: https://github.com/EdwinVW/awesome-ddd 
