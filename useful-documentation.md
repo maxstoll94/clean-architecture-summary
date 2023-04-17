@@ -20,3 +20,5 @@
 ### - Throw library: https://www.youtube.com/watch?v=l9b8ghprj9I
 
 ### - Summary of DDD resources: https://github.com/EdwinVW/awesome-ddd 
+
+### - Bounded Context Canvas: https://github.com/ddd-crew/bounded-context-canvas
